@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ParkinGenie</string>
+    <string name="OurCPs">Our Car Parks:</string>
+    <string name="btnBook">Book</string>
+    <string name="car_registration">Car Registration</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="entry_date">Entry Date</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="contact_number">Contact Number</string>
+
+    <string-array name="CarParks">
+        <item>Parnell St</item>
+        <item>Ilac centre</item>
+        <item>Henry St</item>
+        <item>Pavilion</item>
+        <item>IFSC</item>
+        <item>SmithField</item>
+        <item>Swords Central</item>
+    </string-array>
+</resources>
